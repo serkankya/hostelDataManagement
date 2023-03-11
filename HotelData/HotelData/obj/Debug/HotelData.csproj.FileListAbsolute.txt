@@ -1,0 +1,12 @@
+D:\VisualStudio projects\HotelData\HotelData\bin\Debug\HotelData.exe.config
+D:\VisualStudio projects\HotelData\HotelData\bin\Debug\HotelData.exe
+D:\VisualStudio projects\HotelData\HotelData\bin\Debug\HotelData.pdb
+D:\VisualStudio projects\HotelData\HotelData\obj\Debug\HotelData.csproj.AssemblyReference.cache
+D:\VisualStudio projects\HotelData\HotelData\obj\Debug\HotelData.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio projects\HotelData\HotelData\obj\Debug\HotelData.Properties.Resources.resources
+D:\VisualStudio projects\HotelData\HotelData\obj\Debug\HotelData.csproj.GenerateResource.cache
+D:\VisualStudio projects\HotelData\HotelData\obj\Debug\HotelData.csproj.CoreCompileInputs.cache
+D:\VisualStudio projects\HotelData\HotelData\obj\Debug\HotelData.exe
+D:\VisualStudio projects\HotelData\HotelData\obj\Debug\HotelData.pdb
+D:\VisualStudio projects\HotelData\HotelData\obj\Debug\HotelData.FrmPanel.resources
+D:\VisualStudio projects\HotelData\HotelData\obj\Debug\HotelData.FrmLogin.resources
